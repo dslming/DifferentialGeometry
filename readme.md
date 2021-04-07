@@ -1,7 +1,12 @@
+
 [视频教程-王幼宁](https://www.bilibili.com/video/av7471669?from=search&seid=14125137270473807725)
 
-### 微分几何学习笔记
+### 微分几何学习笔记(differential geometry)
 
+#### 其他资料
+[计算机图形学高级主题：离散微分几何（600.657）](http://www.cs.jhu.edu/~misha/Fall09/)
+[CS 15-458 / 858：离散微分几何](https://brickisland.net/DDGSpring2021/)
+[离散微分几何视频教程](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
 #### 1、目录
 **第一章**
 1.0 导论
